@@ -10,6 +10,6 @@ The objective of this project is to reproduce a code written in R to analyze COM
 - statsmodels
 
 ## Instructions for reproducing the results
-1. Download this repository
+1. Download this file: "RML_assignment1_g22169515.ipynb"
 2. Open script on Google Colab
 3. Run the code to reproduce the analysis.
